@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @REVANTH-KARIAPPA
 - 👀 I’m interested in ...Full Stack Development
 - 🌱 I’m currently learning ... Spring Boot, ReactJs, Angular.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... community through open source technology.
 - 📫 How to reach me ... revanthkariappa4@gmail.com
 
 <!---
