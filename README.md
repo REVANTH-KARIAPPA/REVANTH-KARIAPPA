@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @REVANTH-KARIAPPA
-- 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ... Java
+- 👀 I’m interested in ...Full Stack Development
+- 🌱 I’m currently learning ... Spring Boot, ReactJs, Angular.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... revanthkariappa7@gmail.com
+- 📫 How to reach me ... revanthkariappa4@gmail.com
 
 <!---
 REVANTH-KARIAPPA/REVANTH-KARIAPPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
